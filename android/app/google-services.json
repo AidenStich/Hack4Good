@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663414393375",
+    "project_id": "codecrusaders-49cfa",
+    "storage_bucket": "codecrusaders-49cfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663414393375:android:f48fd63550cf7c0645632a",
+        "android_client_info": {
+          "package_name": "com.mycompany.school"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEW-72F_NgE6gPI_bGwLMTIxfy4eFyk4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
