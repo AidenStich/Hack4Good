@@ -1,7 +1,8 @@
-# school
+# Code Crusaders
 
-A new Flutter project.
+## Team members
 
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+Aiden Stich
+Louis Lathrop
+Johnny Sun
+Malcolm Mccarthy
