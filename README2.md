@@ -2,7 +2,7 @@
 
 ## Team members
 
-Aiden Stich
-Louis Lathrop
-Johnny Sun
+Aiden Stich, 
+Louis Lathrop, 
+Johnny Sun, 
 Malcolm Mccarthy
